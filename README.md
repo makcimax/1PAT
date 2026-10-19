@@ -5,6 +5,7 @@
 A set of scripts for auditing 1C passwords.
 
 This project is based on [DPAT](https://github.com/clr2of8/DPAT). The author thanks the authors of that project.
+
 This repository was created using information from the article [«Ещё 1 раз про пентест 1С»](https://ardent101.github.io/posts/1c/). The author also thanks its author (Ardent101).
 
 ## What you need
